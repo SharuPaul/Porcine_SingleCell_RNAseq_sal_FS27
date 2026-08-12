@@ -1,0 +1,6 @@
+Outputs
+CleanOutputs
+.Rproj.user
+*.Rproj
+.RData  
+.Rhistory
